@@ -6,7 +6,7 @@ with open("README.md", "r") as f:
 setup(
     name="drumbot-utils",
     packages=["drumbot-utils"],
-    version="0.1",
+    version="0.1.0",
     description="Funciones, metodos y clases que se usan de forma recurrente en los "
                 "proyectos de drumbot",
     long_description=long_description,
